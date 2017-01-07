@@ -26,6 +26,7 @@ api03_project:
   - recommend
   - lottery
   - review
+  - zookeeper
 {% endif %}
 
 {% if 'manage' in grains['roles'] %}

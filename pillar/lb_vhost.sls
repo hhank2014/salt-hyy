@@ -85,6 +85,7 @@ lb_vhost:
   - recommend.api.tomtop.com
   - lottery.api.tomtop.com
   - review.api.tomtop.com
+  - zookeeper.api.tomtop.com
 
 
 ssl_pem:
